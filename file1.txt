@@ -1,3 +1,6 @@
 This is a proof. I am going to continue editinf this file. 
 
 I had forgotten this part of the file, then, I had to use " git diff "....
+
+
+This is the part of 'revert' of a commit....
